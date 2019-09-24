@@ -1,0 +1,6 @@
+Friends
+valdo,garry
+valdo,muz
+muz,vedank
+vedank,mang
+muz,srk
